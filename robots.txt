@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dreamzupabove.github.io/dreamzupabove/sitemap.xml
+Sitemap: https://dreamzupabove.github.ioQuantumUniverse/sitemap.xml
